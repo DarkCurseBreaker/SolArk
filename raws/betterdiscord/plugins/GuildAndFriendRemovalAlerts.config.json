@@ -1,0 +1,252 @@
+{
+    "currentVersionInfo": {
+        "version": "3.0.0",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "removedGuildHistory": [
+            {
+                "id": "802999754593271869",
+                "invalid": false,
+                "name": "YouTube Together",
+                "iconUrl": "https://cdn.discordapp.com/icons/802999754593271869/8d8c39f14c48fbfbb140746b22f0d985.webp?size=256",
+                "ownerId": "534131935719587850"
+            },
+            {
+                "id": "854850580555104266",
+                "invalid": false,
+                "name": "Kay-0 Mains",
+                "iconUrl": "https://cdn.discordapp.com/icons/854850580555104266/ec522e9e91b12b3997a29b587d98e9cf.webp?size=256",
+                "ownerId": "341393540418371614"
+            }
+        ],
+        "removedFriendHistory": [],
+        "guildsSnapshot": [
+            {
+                "id": "132353223125106688",
+                "invalid": false,
+                "name": "Uncle Dane Community Discord",
+                "iconUrl": "https://cdn.discordapp.com/icons/132353223125106688/df993e538bab80c390dd5bd92ffad3e9.webp?size=256",
+                "ownerId": "127216591631941633"
+            },
+            {
+                "id": "133901846220767232",
+                "invalid": false,
+                "name": "Hamaji Hub",
+                "iconUrl": "https://cdn.discordapp.com/icons/133901846220767232/a_97489f05ddcd9faa1940e7eb28013239.gif?size=256",
+                "ownerId": "133900524389924865"
+            },
+            {
+                "id": "460049594664091659",
+                "invalid": false,
+                "name": "Bois",
+                "iconUrl": "https://cdn.discordapp.com/icons/460049594664091659/d600befde5b2553eadcb413803527d65.webp?size=256",
+                "ownerId": "320146766802583554"
+            },
+            {
+                "id": "563020189604773888",
+                "invalid": false,
+                "name": "Fandom/Gamepedia",
+                "iconUrl": "https://cdn.discordapp.com/icons/563020189604773888/e238c167354de75db9b5b5a23af93736.webp?size=256",
+                "ownerId": "112316877547503616"
+            },
+            {
+                "id": "589749593101697024",
+                "invalid": false,
+                "name": "Self",
+                "iconUrl": "https://cdn.discordapp.com/icons/589749593101697024/beab44b32f710bb34332412276b12915.webp?size=256",
+                "ownerId": "320146766802583554"
+            },
+            {
+                "id": "599271710058872832",
+                "invalid": false,
+                "name": "TF2 Chill Zone",
+                "iconUrl": "https://cdn.discordapp.com/icons/599271710058872832/ade3829cbff3d18705198cdfc7ee812f.webp?size=256",
+                "ownerId": "490801962447667200"
+            },
+            {
+                "id": "669659387161346110",
+                "invalid": false,
+                "name": "XyHub",
+                "iconUrl": "https://cdn.discordapp.com/icons/669659387161346110/ce4bdcd23aa52d9034709a2e3150689f.webp?size=256",
+                "ownerId": "275132350462033921"
+            },
+            {
+                "id": "704080819349749871",
+                "invalid": false,
+                "name": "Valorant India | Ustreak",
+                "iconUrl": "https://cdn.discordapp.com/icons/704080819349749871/a_6b74e571b761382b2ef670384baed660.gif?size=256",
+                "ownerId": "580666337739800592"
+            },
+            {
+                "id": "735836228494164039",
+                "invalid": false,
+                "name": "IB",
+                "iconUrl": "https://cdn.discordapp.com/icons/735836228494164039/f37f334ea74ff726bcf2a6cd3742e9f0.webp?size=256",
+                "ownerId": "320146766802583554"
+            },
+            {
+                "id": "757518395850620939",
+                "invalid": false,
+                "name": "Gaming Hybrid",
+                "iconUrl": "https://cdn.discordapp.com/icons/757518395850620939/5be7744da8f7698a12aa03ecfc933fdb.webp?size=256",
+                "ownerId": "510748790974578704"
+            },
+            {
+                "id": "773989449331507210",
+                "invalid": false,
+                "name": "VALORANT Wiki",
+                "iconUrl": "https://cdn.discordapp.com/icons/773989449331507210/12bd0d60550239e418c0682c33e70e4e.webp?size=256",
+                "ownerId": "399147119736520704"
+            },
+            {
+                "id": "834239873719205918",
+                "invalid": false,
+                "name": "Valorant 3D",
+                "iconUrl": "https://cdn.discordapp.com/icons/834239873719205918/8982c490abfb91dd8fbf08c2fac9cc24.webp?size=256",
+                "ownerId": "447146642928304129"
+            },
+            {
+                "id": "843756051433521162",
+                "invalid": false,
+                "name": "HexesConsole",
+                "iconUrl": "https://cdn.discordapp.com/icons/843756051433521162/e5a24e86138e59443f8b2c2affd25171.webp?size=256",
+                "ownerId": "320146766802583554"
+            },
+            {
+                "id": "869811850219503637",
+                "invalid": false,
+                "name": "CIS IB M22 🤪",
+                "ownerId": "693797662960386069"
+            }
+        ],
+        "friendsSnapshot": [
+            {
+                "id": "260045188947378177",
+                "invalid": false,
+                "tag": "Ansh#1307",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/260045188947378177/9568049deb68dad46c5a8167e51e3536.webp?size=256"
+            },
+            {
+                "id": "317236894171922433",
+                "invalid": false,
+                "tag": "fatty acid#5036",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/317236894171922433/518dc18de37883acf52b4db798745608.webp?size=256"
+            },
+            {
+                "id": "321489500410871808",
+                "invalid": false,
+                "tag": "Aneesh#7166",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "/assets/c09a43a372ba81e3018c3151d4ed4773.png"
+            },
+            {
+                "id": "323027734542548992",
+                "invalid": false,
+                "tag": "Mitaansh#0383",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "/assets/6f26ddd1bf59740c536d2274bb834a05.png"
+            },
+            {
+                "id": "326230739110723586",
+                "invalid": false,
+                "tag": "Suspicious Potato#9388",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/326230739110723586/299e025a7bf228a9bea5a257e93121d8.webp?size=256"
+            },
+            {
+                "id": "367305116287500288",
+                "invalid": false,
+                "tag": "KV#3402",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/367305116287500288/86ad67359536ec225992a3ea7961c8fd.webp?size=256"
+            },
+            {
+                "id": "369119833507495936",
+                "invalid": false,
+                "tag": "Gottamakeyouunderstand#9333",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/369119833507495936/75dd8ca9d03836109d67986295018de0.webp?size=256"
+            },
+            {
+                "id": "388641092871913482",
+                "invalid": false,
+                "tag": "Sidkej#7385",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/388641092871913482/f2ecf6a9f690117f697ebef738851951.webp?size=256"
+            },
+            {
+                "id": "417181710908784641",
+                "invalid": false,
+                "tag": "phantomɢᴛ#2810",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/417181710908784641/63183bf44c8a0987015f8b1c91935390.webp?size=256"
+            },
+            {
+                "id": "424200346630488065",
+                "invalid": false,
+                "tag": "Son of God#0767",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/424200346630488065/33538d198f2f4d9d30adc1cf69aad2cc.webp?size=256"
+            },
+            {
+                "id": "441915853965885441",
+                "invalid": false,
+                "tag": "AASL#0886",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/441915853965885441/74e2e993957605710903e6902bf376aa.webp?size=256"
+            },
+            {
+                "id": "458581359456157701",
+                "invalid": false,
+                "tag": "Tannumon#4826",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/458581359456157701/9612af7f036527614ea816ab092989a3.webp?size=256"
+            },
+            {
+                "id": "464358758542344193",
+                "invalid": false,
+                "tag": "IzzzBonk#9229",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/464358758542344193/a_72671d05b61d8c27123b80a6101a7612.webp?size=256"
+            },
+            {
+                "id": "617566862460452898",
+                "invalid": false,
+                "tag": "Dark V#8081",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/617566862460452898/f8e7e2ced551c155a7855e064b695769.webp?size=256"
+            },
+            {
+                "id": "626364733016244244",
+                "invalid": false,
+                "tag": "cadmiium#6612",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/626364733016244244/f0b8cb20d29e9f9cf0cee5001deda206.webp?size=256"
+            },
+            {
+                "id": "663250879163531264",
+                "invalid": false,
+                "tag": "Dark IV#3905",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/663250879163531264/b74c7d8eeee8cf5d54fd8a5e79c04ce9.webp?size=256"
+            },
+            {
+                "id": "719909113777225819",
+                "invalid": false,
+                "tag": "Nitehound#6940",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/719909113777225819/97db2536b49ef163e4ff3cc8e2482fcb.webp?size=256"
+            },
+            {
+                "id": "823347306967203892",
+                "invalid": false,
+                "tag": "KR#9813",
+                "avatarURL": "/assets/1cbd08c76f8af6dddce02c5138971129.png",
+                "avatarUrl": "https://cdn.discordapp.com/avatars/823347306967203892/5fb5f02cae9d92e589c3ddefad72af43.webp?size=256"
+            }
+        ]
+    }
+}

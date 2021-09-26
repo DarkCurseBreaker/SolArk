@@ -1,0 +1,58 @@
+{
+	"places": {
+		"contextMenu": true,
+		"chatTextarea": true,
+		"chatWindow": true,
+		"reactions": true,
+		"mentions": true,
+		"memberList": true,
+		"voiceChat": true,
+		"recentDms": true,
+		"dmsList": true,
+		"dmHeader": true,
+		"dmCalls": true,
+		"typing": true,
+		"friendList": true,
+		"inviteList": true,
+		"activity": true,
+		"userPopout": true,
+		"userProfile": true,
+		"mutualFriends": true,
+		"autocompletes": true,
+		"guildSettings": true,
+		"quickSwitcher": true,
+		"searchPopout": true,
+		"userAccount": true,
+		"appTitle": true
+	},
+	"types": {
+		"servers": true,
+		"dms": true
+	},
+	"users": {
+		"464358758542344193": {
+			"name": "Ronald"
+		},
+		"326230739110723586": {
+			"name": "Adi"
+		},
+		"663250879163531264": {
+			"name": "Shome"
+		},
+		"317236894171922433": {
+			"name": "Prashaant"
+		},
+		"388641092871913482": {
+			"name": "Siddhant"
+		},
+		"458581359456157701": {
+			"name": "Tanush"
+		},
+		"424200346630488065": {
+			"name": "Rohan"
+		},
+		"417181710908784641": {
+			"name": "Tanish"
+		}
+	}
+}
