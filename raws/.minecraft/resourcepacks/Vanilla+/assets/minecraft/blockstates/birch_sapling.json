@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "stage=0": [
+	  { 
+	    "model": "block/birch_sapling_small"
+	  },
+	  { 
+	    "model": "block/birch_sapling_small" 
+      }
+    ]
+  }
+}
